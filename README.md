@@ -1,6 +1,6 @@
 # Hey there! 👋 I’m Pranjal Singh (@pranjalsingh001)
 
-I’m a **full-stack developer and computer science student** building **real, system-level products**, not isolated features. I work end-to-end — from **architecture and APIs** to **frontend UX**, **AI workflows**, and **execution environments**.
+I’m a **full-stack developer and computer science student** building **real, system-level products**, not isolated features. I work end-to-end from **architecture and APIs** to **frontend UX**, **AI workflows**, and **execution environments**.
 
 Most of my recent work focuses on **AI-assisted developer tools**, **production-style full-stack platforms**, and **scalable system design**.
 
@@ -45,7 +45,7 @@ He/Him (but also responds to “Yo dev!” 🤙)
 ---
 
 ### ⚡ Fun Fact:
-I can spend hours tweaking shadows and animations — not because I have to… but because it brings UI to *life*. Oh, and I love building stuff people say “Whoa!” to.
+I can spend hours tweaking shadows and animations not because I have to… but because it brings UI to *life*. Oh, and I love building stuff people say “Whoa!” to.
 
 ---
 
