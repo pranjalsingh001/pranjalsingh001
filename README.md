@@ -1,34 +1,36 @@
 # Hey there! 👋 I’m Pranjal Singh (@pranjalsingh001)
 
-🚀 Tech explorer. 💡 Idea machine. 🛠️ Builder of cool things.  
-I’m on a mission to turn futuristic dreams into real-world projects with code, design, and a lot of curiosity.
+I’m a **full-stack developer and computer science student** building **real, system-level products**, not isolated features. I work end-to-end — from **architecture and APIs** to **frontend UX**, **AI workflows**, and **execution environments**.
+
+Most of my recent work focuses on **AI-assisted developer tools**, **production-style full-stack platforms**, and **scalable system design**.
 
 ---
 
-### 👀 What I'm into:
-- Crafting 🔥 modern UIs with animations that *feel alive*
-- Building full-stack apps that actually solve real problems
-- Diving into Web3, smart contracts & the blockchain rabbit hole 🕳️🦇
-- AI + Chatbots that *talk smart*, not just type fast
-- Turning boring dashboards into visual experiences
+## What I build
+
+- **Full-stack web applications** using React, TypeScript, Node.js, Express, MongoDB  
+- **AI-driven systems**: agent workflows, prompt orchestration, structured outputs, and tool-calling logic  
+- **Developer platforms** (IDE-like systems, code generation, execution pipelines, Docker-based runners)  
+- **Backend architecture**: modular services, REST APIs, real-time flows (Socket.IO), auth, sessions  
+- **Web3 experiments**: Solidity smart contracts (ERC-20, ERC-721), Web3.js, on-chain interactions  
+- **DevOps foundations**: Docker, environment isolation, deployment workflows  
+- **UI for complex systems**: dashboards, editors, system-design views (HLD/LLD), real-time logs
 
 ---
 
-### 🌱 Currently leveling up in:
-- MERN Stack magic 🧙 (MongoDB, Express, React, Node)
-- Solidity + Web3.js (Yes, I’m on-chain now!)
-- DevOps basics — making my code fly 🚀 and scale 🌍
-- Advanced CSS wizardry ✨ (because plain is pain)
+## How I work
+
+- I design before I code  
+- I optimize for maintainability and scale, not demos  
+- I ship fast, then iterate based on real feedback  
+- I care about structure, naming, and long-term ownership
 
 ---
 
-### 💞️ Let’s collaborate if:
-- You're building something bold, fun, and challenging
-- You need frontend flair with backend brains
-- You’ve got an idea and need someone who can turn it into pixels and logic 💻
-- You love geeking out over design + code
+## What I’m looking for
 
----
+Opportunities where I can work on **real products**, take **end-to-end ownership**, and grow alongside strong engineers while shipping software that’s actually used.
+
 
 ### 📫 Hit me up:
 - 📩 **Email**: pjlv1007@gmail.com 
